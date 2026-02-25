@@ -13,7 +13,6 @@ while hay_cupo(r2):
     r2.append(invitado)
 
 mostrar_resumen(r2)
-    
 
 
 
