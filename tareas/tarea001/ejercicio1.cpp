@@ -2,7 +2,7 @@
 using namespace std;
 const double G= 9.8;
 double f2;
-double r1;
+double r1; 
 main() {
     double t;
     double y;

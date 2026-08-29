@@ -25,7 +25,6 @@ main() {
         regimen = "Subsónico";
         }else if (m >= 0.8 && m < 1.2) {
         regimen =  "Transónico";
-
         }else if (m >= 1.2 && m <= 5.0) {
             regimen = "Supertransónico";
         }else if (m >=5.0) {
